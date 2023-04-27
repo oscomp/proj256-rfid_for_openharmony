@@ -1,6 +1,6 @@
 # proj256-rfid_for_openharmony
 
-# 9.驱动RFID读卡模块
+# 驱动RFID读卡模块
 
 ## 项目描述
 
